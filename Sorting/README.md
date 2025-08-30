@@ -1,40 +1,16 @@
-# 🚀 Daily Learning Log  
+# 🔢 Sorting Algorithms
 
-This repository is my daily log of coding practice, problem-solving, and algorithm learning.  
-I’ll keep pushing updates every day as I learn new things.  
+This folder contains my implementations of common sorting algorithms in **C++**.  
+Each algorithm has its own file with code.
 
----
+## ✅ Implemented
+1. Bubble Sort
+2. Selection Sort
+3. Insertion Sort
+4. Merge Sort
+5. Quick Sort
 
-## 📅 Day 1: Sorting Algorithms  
-
-✅ Implemented **Bubble Sort**  
-✅ Implemented **Selection Sort**  
-✅ Implemented **Insertion Sort**  
-
-### 📂 Files
-- `bubble_sort.cpp`
-- `selection_sort.cpp`
-- `insertion_sort.cpp`
+## 📖 Purpose
+Sorting is one of the most fundamental concepts in Computer Science and is often used as a building block for more complex algorithms.
 
 ---
-## 📅 Day 2: Sorting Algorithms (Advanced)  
-
-✅ Implemented **Merge Sort**  
-✅ Implemented **Quick Sort**  
-
-### 📂 Files
-- `merge_sort.cpp`
-- `quick_sort.cpp`
-
----
-## 🔮 Goals  
-- Practice and document at least one new algorithm/concept daily  
-- Track my progress publicly to stay consistent  
-- Build strong fundamentals in DSA + coding  
-
----
-
-## 🛠️ Tech Used  
-- C++  
-- Git & GitHub  
-- VSCode  
