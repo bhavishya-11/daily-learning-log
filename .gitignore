@@ -1,0 +1,14 @@
+# Ignore VSCode settings
+.vscode/
+
+# Ignore OS junk
+Thumbs.db
+.DS_Store
+
+# Ignore compiled binaries
+*.exe
+*.out
+*.class
+
+# Ignore temp files
+*.log
